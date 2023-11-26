@@ -32,6 +32,7 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [pyttsx3](https://pypi.org/project/pyttsx3/)
+- [webbrowser](https://docs.python.org/3/library/webbrowser.html)
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
 - [geopy](https://pypi.org/project/geopy/)
 - [wikipedia-api](https://pypi.org/project/Wikipedia-API/)
