@@ -66,4 +66,28 @@ The script uses the AppOpener library to open and close apps. The input can be '
 
 ### Keyboard Control
 
+PyautoGui library is used to control the user's keyboard for performing functions such as closing windows,closing browser tabs,typing,copying,pasting,selecting text etc.
 
+### Web browser control
+
+The webbrowser library is used to open websites. The user can give a command such as 'open website_name' to open the website.
+
+### Youtube access
+
+The code uses the playonyt function in the pywhatkit library to directly access Youtube and play videos. The user can access the video by just saying 'youtube search video_name'.
+
+### Texting and calling
+
+The script can send whatsapp messages and call on whatsapp using the pywhatkit and pyautogui library respectively. The call functionality will not work for all laptops/monitors currently as it is designed to work for a specific aspect ratio.The ratio it is configured to work in is a 15.6 inch screen with a 16:10 aspect ratio.
+
+### Wikipedia Access
+
+The script can answer any question using Wikipedia. The user can simpky ask any question that starts with 'what is' or 'who is'.
+
+### Location
+
+The script can provide the location of any place using the geolocator library. We are passing the latitude and longitude to google maps to display the result. To know the location of the place the user can simply start the sentence with 'location of'.
+
+### Latest News
+
+The code can read the latest news out to the user. In this case the number of news headlines to be reaad has been set to 5 but can be changed based on the users need. To access the latest news, the user can just say 'latest news'.
