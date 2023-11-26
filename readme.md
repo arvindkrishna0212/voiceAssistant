@@ -20,11 +20,11 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 ### Prerequisites
 
 - Python 3.x
-- Install required packages: `pip install -r requirements.txt`
+- Install required packages
 
 ### Usage
 
-1. Run the script: `python voice_assistant.py`
+1. Run the script: `voiceAssistant.final.py`
 2. Wait for the "Listening" prompt.
 3. Give voice commands to perform various tasks.
 
@@ -39,6 +39,7 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 - [AppOpener](https://pypi.org/project/appopener/)
 - [pyautogui](https://pypi.org/project/PyAutoGUI/)
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
+- [pyjokes](https://pypi.org/project/pyjokes/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 - [requests](https://pypi.org/project/requests/)
