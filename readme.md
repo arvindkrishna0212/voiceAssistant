@@ -44,3 +44,26 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 - [requests](https://pypi.org/project/requests/)
   
+## Code Explanation
+
+Let's break down the key sections of the code:
+
+### User Interface (UI)
+
+The script initializes a simple PyQt5-based GUI to display the assistant's listening status.
+
+### Speech Recognition
+
+The script uses the speech recognizer library to instantiate the recognizer and microphone classes.
+
+### Text to Speech
+
+The code creates an engine using pyttsx3 module and the properties of the engine are set.
+
+### App Control
+
+The script uses the AppOpener library to open and close apps. The input can be 'open app app_name' or 'close app app_name'. The given commands will open or close a given app respectively.
+
+### Keyboard Control
+
+
