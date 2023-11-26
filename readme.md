@@ -24,7 +24,7 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 
 ### Usage
 
-1. Run the script: `voiceAssistant.final.py`
+1. Run the script: `voice-assistant.py`
 2. Wait for the "Listening" prompt.
 3. Give voice commands to perform various tasks.
 
