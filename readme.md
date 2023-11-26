@@ -36,6 +36,7 @@ Welcome to the Voice Assistant project! This Python-based voice assistant allows
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
 - [geopy](https://pypi.org/project/geopy/)
 - [wikipedia-api](https://pypi.org/project/Wikipedia-API/)
+- [AppOpener](https://pypi.org/project/appopener/)
 - [pyautogui](https://pypi.org/project/PyAutoGUI/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
